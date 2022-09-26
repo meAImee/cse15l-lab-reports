@@ -7,7 +7,7 @@ Why do I need so much of sleep
 > two hours is not enough\
 > three hours is not enough\
 > ...\
-> twenty-four hours is not even enough\
+> twenty-four hours is not even enough
 
 
 Why do I need so much sleep
