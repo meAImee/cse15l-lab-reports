@@ -8,7 +8,7 @@
 ## Installing VScode
 1. Use this [link](https://code.visualstudio.com/download)  to download **VisualStuioCode** according to Operation System you have.
 2. Install the application on your laptop and open the application, you should see a window like this:
-![Image](https://github.com/meAImee/cse15l-lab-reports/blob/main/VScodeView.png)
+![Image](https://github.com/meAImee/cse15l-lab-reports/raw/main/VScodeView.png)
 
 
 
@@ -23,7 +23,7 @@
     Where you should replace the **last two characters** before "@" according to your **personal CSE15L account**.
 4.Type in the password you set in **Remotely Connecting- Stept 2**.
 5. If you receive an output like this, congratulations! You are now connected!
-![Image](https://github.com/meAImee/cse15l-lab-reports/blob/main/ConnectingRemotely.png)
+![Image](https://github.com/meAImee/cse15l-lab-reports/raw/main/ConnectingRemotely.png)
 
 
 
@@ -34,7 +34,7 @@ Try some of the following commands:
 - `ls -lat`
 - `la -a`
 - `ls <directory>`
-![Image](https://github.com/meAImee/cse15l-lab-reports/blob/main/TryingCommands.png)
+![Image](https://github.com/meAImee/cse15l-lab-reports/raw/main/TryingCommands.png)
 
 
 ## Moving Files with scp
@@ -64,7 +64,7 @@ scp WhereAmI.java cs15lfa22zz@ieng6.ucsd.edu:~/
 *remember to replace **the last two characters** before "@" according to your **cse15l personal account**.
 
 Type in your password, and then you should be able to access the file with ssh, just like this:
-![Image](https://github.com/meAImee/cse15l-lab-reports/blob/main/SCP.png)
+![Image](https://github.com/meAImee/cse15l-lab-reports/raw/main/SCP.png)
 
 
 
@@ -88,7 +88,7 @@ This is for setting up your **passcode-less** login for your ssh.
     ```
     *Remember to use your own username and account.
 7. With all the steps above, you should be able to log into your ssh without password, like this:
-![Image](https://github.com/meAImee/cse15l-lab-reports/blob/main/SSHKey.png)
+![Image](https://github.com/meAImee/cse15l-lab-reports/raw/main/SSHKey.png)
 
 
 
@@ -105,10 +105,13 @@ Here are some hints to make your experience with ssh more pleasant:
     cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
     ```
 3. Recall the last command using the **up-arrow**.
-![Image](https://github.com/meAImee/cse15l-lab-reports/blob/main/%E6%88%AA%E5%B1%8F2022-09-30%20%E4%B8%8B%E5%8D%8811.58.09.png)
+![Image](https://github.com/meAImee/cse15l-lab-reports/raw/main/%E6%88%AA%E5%B1%8F2022-09-30%20%E4%B8%8B%E5%8D%8811.58.09.png)
 
 
 ## Congratulations! You're done!
+
+
+
 
 
 
