@@ -2,7 +2,8 @@
 # Tutorial- Setting up for CSE15L
 
 ---
-    Setting up an remote access is an expecially important step when you start youe CSE15L, and here is a short tutorial for you to get ready in just a few steps:
+    Setting up an remote access is an expecially important step when you start youe CSE15L.
+    Here is a short tutorial for you to get ready in just a few steps:
 ---
 
 ## Installing VScode
